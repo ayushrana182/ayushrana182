@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushrana182/theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushrana182&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
 ayushrana182/ayushrana182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
