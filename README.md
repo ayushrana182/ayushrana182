@@ -4,7 +4,7 @@ I am **Ayush Rana**, a full stack Software Engineer working around the JavaScrip
 
 ## Connect with me
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-725460135?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bsantosh909)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rana-725460135)
 
 
 ## Skills
