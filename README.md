@@ -9,7 +9,7 @@ I am **Ayush Rana**, a full stack Software Engineer working around the JavaScrip
 
 ## Skills
 
-Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
+I've got these skills under my belt, _but I am not limited to just them_ 
 
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,solidity,rust)
