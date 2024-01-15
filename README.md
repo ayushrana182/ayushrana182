@@ -15,7 +15,7 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Languages](https://skillicons.dev/icons?i=js,ts,solidity,rust)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,bootstrap,tailwind,scss,d3,redux,solid,jotai,zustand)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,bootstrap,tailwind,scss,d3,redux,emotion,gatsby,regex,solid,jotai,zustand)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql,jest)
