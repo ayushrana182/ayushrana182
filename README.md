@@ -27,13 +27,6 @@ I've got these skills under my belt, _but I am not limited to just them_
 ![Others](https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,nginx,markdown,netlify,vercel,vscode,cloudflare,figma,regex,linux,firebase,babel,bash,ps)
 
 
-## Github Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=ayushrana182&theme=onedark&column=8&margin-w=5&margin-h=5)
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushrana182&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushrana182&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushrana182&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
 ayushrana182/ayushrana182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
